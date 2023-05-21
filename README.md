@@ -1,2 +1,2 @@
-# f8-shop1
+# f8-shop
 
