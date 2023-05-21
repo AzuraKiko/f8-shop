@@ -1,0 +1,48 @@
+/* h1{
+    color: red;
+    font-size: 40px;
+}
+
+#first-heading {
+    color: blue;
+}
+
+.Second-heading {
+    color: green;
+    font-size: 25px;
+} */
+/* 
+*{
+    color: blue;
+}
+
+h1 {
+    color : black;
+} */
+
+/* html {
+ color: forestgreen;
+}
+h2 {
+    color :red !important;
+}
+h2 {
+    color: hotpink;
+} */
+
+:root {
+    --text-color: green;
+}
+
+h3 {
+    --my-color: blue;
+    color : var(--my-color);
+}
+
+h2 {
+    color : var(--text-color);
+}
+
+h2 {
+    color : var(--text-color);
+}

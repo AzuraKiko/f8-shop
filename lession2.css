@@ -1,0 +1,37 @@
+h1 {
+    background: pink;
+    color: blue;
+}
+
+/* body {
+    background: orchid;
+} */
+/* body {
+    background-color: #45c26f2d;
+} */
+/* body {
+    background-image: url("https://c3nguyentatthanhhp.edu.vn/wp-content/uploads/2023/04/Background-Co-Trang-Canh-Dep-Co-Xua-Nhe-Buon-Man.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background: url("https://c3nguyentatthanhhp.edu.vn/wp-content/uploads/2023/04/Background-Co-Trang-Canh-Dep-Co-Xua-Nhe-Buon-Man.jpg");
+} */
+/* body {
+    background: url("https://c3nguyentatthanhhp.edu.vn/wp-content/uploads/2023/04/Background-Co-Trang-Canh-Dep-Co-Xua-Nhe-Buon-Man.jpg") 
+    no-repeat center fixed; 
+    height: 100vh;   
+} */
+body {
+    background-image: url("https://c3nguyentatthanhhp.edu.vn/wp-content/uploads/2023/04/Background-Co-Trang-Canh-Dep-Co-Xua-Nhe-Buon-Man.jpg");
+    background-attachment: fixed;
+}
+/* hex: #353634 */
+h1 {
+    color: #337CA0;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    font-family: 'Quicksand', sans-serif;
+}
+/* font-size : default 16px
+font-weight : default 500 */

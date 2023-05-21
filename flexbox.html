@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #container {
+            background-color: plum;
+            display: flex;
+            /* flex-direction: column-reverse; */
+        }
+        header {
+            background-color: yellowgreen;
+            height: 100px;
+        }
+        .content {
+            background-color: hsla(189, 100%, 50%, 0.288);
+            height: 300px;
+            display: flex;
+            gap : 30px;
+            /* flex-direction: column; */
+        }
+        main {
+            background-color: pink;
+            flex: 2;
+            margin: 10px;
+            /* padding: 10px; */
+        }
+        aside {
+            background-color: yellow;
+            flex: 1;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="container">
+        <header>Header</header>
+        <div class="content">
+            <main>Main</main>
+            <aside>Sidebar</aside>
+        </div>
+    </div>
+</body>
+</html>
